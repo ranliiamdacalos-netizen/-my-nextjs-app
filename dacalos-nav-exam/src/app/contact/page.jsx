@@ -27,7 +27,7 @@ export default function Contact() {
                 Email
               </p>
               <p className="font-semibold text-white group-hover:text-blue-400 transition-colors">
-                ranlidacalos738@gmail.com
+                ranliiam.dacalos@hcdc.edu.ph
               </p>
             </div>
             <span className="text-xl text-zinc-500 group-hover:text-blue-400 group-hover:translate-x-1 transition-all"></span>
